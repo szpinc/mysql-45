@@ -27,4 +27,4 @@
 
 # 课程目录
 
-![]{https://img.szpinc.org/2021/04/12/15/4xZDNU.jpg}
+![](https://img.szpinc.org/2021/04/12/15/4xZDNU.jpg)
