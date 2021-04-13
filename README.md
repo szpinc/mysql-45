@@ -1,6 +1,7 @@
 # mysql-45
 极客时间-MySQL实战45讲
 
+> 在线阅读: [https://book.szpinc.org/mysql-45](https://book.szpinc.org/mysql-45)
 
 # 讲师介绍
 林晓斌，网名“丁奇”，前阿里资深技术专家，曾负责阿里云RDS内核开发团队和运维团队，并推动了AliSQL分支开源。作为活跃的MySQL社区贡献者，丁奇专注于数据存储系统、MySQL源码研究和改进、MySQL性能优化和功能改进，热衷于解决MySQL疑难问题。
