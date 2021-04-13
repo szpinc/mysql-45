@@ -1,0 +1,27 @@
+{
+    "title": "MySQL实战45讲",
+    "description": "极客时间-MySQL实战45讲",
+    "author": "孙志鹏",
+    "language": "zh-hans",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "tbfed-pagefooter",
+        "github-buttons@2.1.0"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy ershouche-FE 2019",
+            "modify_label": "文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github-buttons": {
+            "repo": "szpinc/mysql-45",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        }
+    }
+}
