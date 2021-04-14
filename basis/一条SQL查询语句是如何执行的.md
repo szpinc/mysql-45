@@ -1,6 +1,13 @@
 
 # 01 | 基础架构:一条SQL查询语句是如何执行的?
 
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://img.szpinc.org/2021/04/14/11/MBdVWM.mp3">
+</audio>
+
+--- 
+
 > 2018-11-14 林晓斌
 
 ![](https://img.szpinc.org/2021/04/12/16/01.png)
